@@ -1,4 +1,4 @@
-### Regression From Scratch - Written by Zachary Pulliam
+# Regression From Scratch - Written by Zachary Pulliam
 
 This code was written in order to implement a regression model that will be used to predict output 
 for two 2D synthetic datasets and an 11D dataset of red wine quality.
